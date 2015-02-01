@@ -1,1 +1,15 @@
-[]
+[{
+	"title": "Escape-the-room game",
+	"description": "Designed and built a text-based escape-the-room game - Human-Centered Computing Professional Development",
+	"languages": "Javascript; HTML"
+},
+{
+	"title": "Bookface website",
+	"description": "Created a website called Bookface for book lovers to role-play as characters from their favorite books - Software Methods and Tools",
+	"languages": "Ruby on Rails"
+},
+{
+	"title": "Florashere",
+	"description": "Building an app for plant-lovers to assist them in taking care of their indoor plants - Object-Oriented Design and Analysis",
+	"languages": "Java; Android Platform development"
+}]

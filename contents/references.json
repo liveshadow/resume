@@ -1,15 +1,15 @@
 [{
-	"names": "Minerva McGonagall",
-	"position": "Transfiguration Professor and Head of Gryffindor House",
-	"email": "minerva.mcgonagall@hogwarts.edu"
-},
-{
-	"names": "Barney Stinson",
-	"position": "P.L.E.A.S.E.",
-	"email": "barney.stinson@gnb.com"
+	"names": "Erik Beck",
+	"position": "Digital Services Librarian, William A. Wise Law Library, CU Boulder",
+	"email": "erik.beck@colorado.edu"
 },
 {
 	"names": "Elizabeth White",
 	"position": " Former Instructor at University of Colorado Boulder",
 	"email": "elizabeth.white@colorado.edu"
+},
+{
+	"names": "Robyn Copeland",
+	"position": "Circulation Manager, William A. Wise Law Library, CU Boulder",
+	"email": "robyn.copeland@colorado.edu"
 }]

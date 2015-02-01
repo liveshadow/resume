@@ -1,1 +1,24 @@
-[]
+[{
+	"name": "Javascript",
+	"expertise": "beginner"
+},
+{
+	"name": "HTML",
+	"expertise": "beginner"
+},
+{
+	"name": "Java",
+	"expertise": "intermediate"
+},
+{
+	"name": "C++",
+	"expertise": "intermediate"
+},
+{
+	"name": "Python",
+	"expertise": "intermediate"
+},
+{
+	"name": "Microsoft Office",
+	"expertise": "proficient"
+}]

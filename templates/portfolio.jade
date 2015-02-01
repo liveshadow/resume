@@ -1,2 +1,13 @@
 h3 Portfolio
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Project title
+      th Description
+      th Languages used
+  tbody
+  each project in contents['portfolio.json'].metadata
+    tr
+      td= project.title
+      td= project.description
+      td= project.languages

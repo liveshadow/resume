@@ -1,2 +1,15 @@
 h3 Work Experiences
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Position
+      th Term
+      th Description
+      th Contact
+  tbody
+  each position in contents['work.json'].metadata
+    tr
+      td= position.title
+      td= position.term
+      td= position.description
+      td= position.contact

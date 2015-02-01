@@ -1,10 +1,21 @@
 [{
-    "title": "Aspen",
-    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "aspen.png"
+    "title": "Ontario, Canada",
+    "description": "Took a trip to Canada with my family; visited Toronto, Ottowa, Montreal, and Quebec.",
+    "image": ""
 },
 {
-    "title": "Boulder",
-    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "boulder.png"
-}]
+	"title": "New England, U.S.A.",
+	"description": "Hit all 6 New England states in a couple weeks with my family.",
+	"image": ""
+},
+{
+    "title": "Shanghai, China",
+    "description": "Visited the Shanghai area of China with a tour group; toured various regions near the city.",
+    "image": ""
+},
+{
+	"title": "France",
+	"description": "Went to France with a group from high school after senior year; visited Paris, Reims, Nancy, Strasbourg, Colmar, Selestat, and Beaune, and stayed with a host family in Lyon.",
+	"image": "IMG_2040.JPG"
+}
+]
